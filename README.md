@@ -1,5 +1,7 @@
 ## Hi there 👋
+# 'Hello Everyone' My Name is Navjot
 
+ 🌱 I’m currently learning ... React js
 <!--
 **NavjotSingh408/NavjotSingh408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
